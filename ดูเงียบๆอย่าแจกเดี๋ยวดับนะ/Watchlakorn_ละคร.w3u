@@ -5,6 +5,19 @@
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
   {
+   "name": "เส้นทางรักพิชิตดวงดาว [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
+   "stations": [
+    {
+     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 1",
+     "info": "วันที่ 11 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e4a43e87f2f8a4f2e406a235595c4123/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
    "name": "พี่เจตคนกลาง [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
    "stations": [
@@ -194,6 +207,13 @@
      "info": "วันที่ 11 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699027628.jpg",
      "url": "https://www.watchlakorn.in/egdeny/40afa0612c86025ab5144a71921eff08/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "นางฟ้าไร้นาม  ตอนที่ 6",
+     "info": "วันที่ 12 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699027628.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/847a74076d43aa2cce30ccf9c62909fc/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -421,6 +441,20 @@
      "info": "วันที่ 5 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
      "url": "https://www.watchlakorn.in/egdeny/609bf10ef684665b05e36a8124ef55fc/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หลังคาใบบัว  ตอนที่ 6",
+     "info": "วันที่ 11 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5b890baf912894f9fcd3d44b5fa801f9/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หลังคาใบบัว  ตอนที่ 7",
+     "info": "วันที่ 12 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/e12a8099f35ba48631fa0b56989bc995/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -850,6 +884,13 @@
      "info": "วันที่ 5 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1696168946.jpg",
      "url": "https://www.watchlakorn.in/egdeny/702eeed5b7973e593cf064cb1ecd0283/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศึกสองนครา  ตอนที่ 7",
+     "info": "วันที่ 12 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1696168946.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/3a13e650ca570ad6f129a93d16a2fda9/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2427,6 +2468,13 @@
      "info": "วันที่ 11 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1693656371.jpg",
      "url": "https://www.watchlakorn.in/egdeny/ee0629cf272d91da0a97a0988898513f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พิภพมัจจุราช หักเหลี่ยมเงาพนัน ตอนที่ 21",
+     "info": "วันที่ 12 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693656371.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/9cbdaa6518bcbf54658def538acb0490/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -4528,7 +4576,7 @@
      "name": "สงครามเงิน  ตอนที่ 16",
      "info": "วันที่ 23 กันยายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1690735007.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/35fca41db56e1ecd6c6565db4b994a8b/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -15837,6 +15885,13 @@
      "info": "วันที่ 5 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1675610402.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f1b1c1284b6052c83b51a9a418b13f7b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เจ๊ไฝ ยอดนักสืบ  แผนการใหญ่ ของใครหลายคน ตอนที่ 39",
+     "info": "วันที่ 12 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1675610402.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/476247017a674e94154deb605b775c6e/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -58561,7 +58616,7 @@
      "name": "บังเกิดเกล้า  ตอนที่ 16",
      "info": "วันที่ 2 มกราคม 2564",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1604796662.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d05847cfe2b8308b4a455d43e22d6952/aGQ=/master.m3u8",
+     "url": "No url m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -62595,117 +62650,6 @@
      "info": "วันที่ 1 พฤศจิกายน 2563",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
      "url": "https://www.watchlakorn.in/egdeny/481da694d2258bef706d5b518785d03a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "โซ่เวรี [จบแล้ว]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-   "stations": [
-    {
-     "name": "โซ่เวรี  ตอนที่ 1",
-     "info": "วันที่ 14 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/606b0b059e87f53b3a6c82bbd075d1a8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 2",
-     "info": "วันที่ 15 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5e79eda6775102d489e3ae7911d27500/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 3",
-     "info": "วันที่ 16 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/863c80698416994f5ebb0d879e9d9d68/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 4",
-     "info": "วันที่ 21 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/81bb03770d1c820e9ce68b7be521b7e8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 5",
-     "info": "วันที่ 22 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/858753b91fed129a3cd597f7a0520d36/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 6",
-     "info": "วันที่ 23 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c61667068f5ed35f4b53e6b3aa5e433f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 7",
-     "info": "วันที่ 28 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c1a0c458e5050c585443992ccf0da6bf/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 8",
-     "info": "วันที่ 29 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4b9bb70e705d1b2979ecd9446b1ddbae/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 9",
-     "info": "วันที่ 30 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f0daba61dda7b7e5fabc75f0adac4f67/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 10",
-     "info": "วันที่ 4 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/6425ae42640ed5c76a0aa322e7fbd815/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 11",
-     "info": "วันที่ 5 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a60448bdef9277698aae10f2eb6273ba/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 12",
-     "info": "วันที่ 6 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/fd07ae68c54c33f54f519998f538c53c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 13",
-     "info": "วันที่ 11 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8ca7c58355fe826d922a4a242728bf2d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรี  ตอนที่ 14",
-     "info": "วันที่ 12 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4504dfe335cc11ada1f619a04518e6ff/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "โซ่เวรีตอนจบ  ตอนที่ 15",
-     "info": "วันที่ 13 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597456674.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/66f44c4a59b93fd8bfd31507ec108acb/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
