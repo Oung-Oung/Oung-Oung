@@ -1,6 +1,6 @@
 {
  "name": "ซิทคอม",
- "author": "เจียว เจียว อัพวันที่ 15 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2566",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -453,6 +453,13 @@
      "info": "วันที่ 9 พฤศจิกายน2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1679402584.jpg",
      "url": "https://www.watchlakorn.in/egdeny/7d29ddeaeaa2c88f9ab7a4cd8a059524/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เป็นต่อ 2022 อิ่มกันทั้งออฟฟิศ",
+     "info": "วันที่ 16 พฤศจิกายน2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1679402584.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/7e767c267efd95e84ba4cec72c1fd052/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
