@@ -1,6 +1,6 @@
 {
  "name": "ละคร-ONAIR",
- "author": "เจียว เจียว อัพ วันที่ 17 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพ วันที่ 18 พฤศจิกายน 2566",
  "info": "Watchlakorn.in",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -707,6 +707,55 @@
      "info": "วันที่ 15 กรกฏาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
      "url": "https://www.watchlakorn.in/egdeny/957884e63a8a547926439166c3d99e8b/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "สลับรักนักลูกยาง",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+   "stations": [
+    {
+     "name": "สลับรักนักลูกยาง  ตอนที่ 1",
+     "info": "วันที่ 3 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ef0ef6151d3a536636f18c549854f046/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สลับรักนักลูกยาง  ตอนที่ 2",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/f59c6e55185b8855c5162c3f3afe2936/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สลับรักนักลูกยาง  ตอนที่ 3",
+     "info": "วันที่ 17 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a5332d47c6a6ed6d87a6625327a0aef8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "พี่เจตคนกลาง",
+   "info": "Watchlakorn.in",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
+   "stations": [
+    {
+     "name": "พี่เจตคนกลาง  ตอนที่ 1",
+     "info": "วันที่ 10 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a4b146b375965458e977797940149045/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่เจตคนกลาง  ตอนที่ 2",
+     "info": "วันที่ 17 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a7bfadf413de5efbd720275dab344fef/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2324,104 +2373,6 @@
      "info": "วันที่ 13 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
      "url": "https://www.watchlakorn.in/egdeny/48d711bc1a903d95d891501dd96cdf06/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "รักเราเท่าจักวาล",
-   "info": "Watchlakorn.in",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-   "stations": [
-    {
-     "name": "รักเราเท่าจักวาล เกิดใหม่อีกครั้งเป็นคาสโนวา EP.1",
-     "info": "วันที่ 20 สิงหาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/1fdc17cdfd32e850dbebe25ea865b311/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล เกิดใหม่อีกครั้งเป็นคาสโนวา EP.2",
-     "info": "วันที่ 27 สิงหาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/a1062f3e6ad01df54afb68e9d7d8563c/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล Marry Go Round (สับรางหัวใจ) ตอนที่ 1",
-     "info": "วันที่ 3 กันยายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/029b872694400220bf694b02a4ea2805/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล Marry Go Round (สับรางหัวใจ) ตอนที่ 2 (ตอนจบ)",
-     "info": "วันที่ 10 กันยายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5adca817a53cb5b61d3826b2cc3b9ff9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล Right Time Right You (ใช่ ชอบ บอก รัก) ตอนที่ 1",
-     "info": "วันที่ 17 กันยายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/d74287c8545e81496c08f4f576f63b44/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล Right Time Right You (ใช่ ชอบ บอก รัก) ตอนที่ 2 (ตอนจบ)",
-     "info": "วันที่ 24 กันยายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/82f8a7a4f39007eb420713f797fdc3d0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล You are my soulmate บัง(ไม่)เอิญ ตอนที่ 1",
-     "info": "วันที่ 1 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e4bd55311913de51b10a0cf88ac98ee7/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล You are my soulmate บัง(ไม่)เอิญ ตอนที่ 2 (ตอนจบ)",
-     "info": "วันที่ 8 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/832c3ea0978252ab0e6d07fe4211462d/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล Lucky Love เสิร์ฟรัก ตอนที่ 1",
-     "info": "วันที่ 15 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/f3f33ff6413701f0f08e1bb2c8063e32/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล Lucky Love เสิร์ฟรัก ตอนที่ 2",
-     "info": "วันที่ 22 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/4cf171adf85a3c072330d4c2c3880eba/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล The Camp Fire แคมป์ผีมีรัก ตอนที่ 1",
-     "info": "วันที่ 29 ตุลาคม2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/567b6523f5ce084b489a792b1abf0171/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล The Camp Fire แคมป์ผีมีรัก ตอนที่ 2 (ตอนจบ)",
-     "info": "วันที่ 5 พฤศจิกายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/72ea5d055cc292a07da893f606e58407/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "รักเราเท่าจักวาล Friends Foreve เฟรนด์ฟอเอฟเวอร์ ตอนที่ 1",
-     "info": "วันที่ 12 พฤศจิกายน2566",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5aaa185d6c6942698120c6b1124b1028/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
