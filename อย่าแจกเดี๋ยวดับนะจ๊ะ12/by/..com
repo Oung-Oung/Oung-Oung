@@ -12,13 +12,13 @@
 	{
 		"name": "",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ/%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99.txt",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ12/%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99.txt",
 		"embed": "true"
 	},
 	{
 		"name": "",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ/%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ12/%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
 		"embed": "true"
 	}
 	]
@@ -4069,14 +4069,14 @@
 	  "name": "soccertv4k",
 	  "author": "",
 	  "image": "https://soccertv4k.com/wp-content/uploads/2022/11/soccertv4k-logo-v2-300x116-1.png",
-	  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ/by/soccertv4k_.w3u",
+	  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ12/by/soccertv4k_.w3u",
 	  "import": "true"
 	},
 	{
 	  "name": "aisplay24hd",
 	  "author": "",
 	  "image": "https://www.aisplay24hd.com/wp-content/uploads/2021/09/cropped-logo_m_md.png",
-	  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ/by/aisplay24hd_.w3u",
+	  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ12/by/aisplay24hd_.w3u",
 	  "import": "true"
 	}
   ]
