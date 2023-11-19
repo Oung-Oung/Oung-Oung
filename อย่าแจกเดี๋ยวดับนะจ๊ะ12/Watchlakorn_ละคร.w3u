@@ -1,9 +1,22 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 17 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 19 พฤศจิกายน 2566",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
+  {
+   "name": "PitBabeTheSeries [ยังไม่จบ]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1700238133.jpg",
+   "stations": [
+    {
+     "name": "Pit Babe The Series  ตอนที่ 1",
+     "info": "วันที่ 17 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700238133.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0fe20737bbe834e53574acd099208feb/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
   {
    "name": "ชะนีปีชง [ยังไม่จบ]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1699883296.jpg",
@@ -54,6 +67,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
      "url": "https://www.watchlakorn.in/egdeny/a4b146b375965458e977797940149045/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่เจตคนกลาง  ตอนที่ 2",
+     "info": "วันที่ 17 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a7bfadf413de5efbd720275dab344fef/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -73,6 +93,13 @@
      "info": "วันที่ 10 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f59c6e55185b8855c5162c3f3afe2936/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สลับรักนักลูกยาง  ตอนที่ 3",
+     "info": "วันที่ 17 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a5332d47c6a6ed6d87a6625327a0aef8/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -353,6 +380,13 @@
      "info": "วันที่ 17 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699027628.jpg",
      "url": "https://www.watchlakorn.in/egdeny/1b8d531c88d00cc0f18062bedd1835d1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "นางฟ้าไร้นาม  ตอนที่ 8",
+     "info": "วันที่ 18 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699027628.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/8f7f4c74e1f42c5e7dd01c8dd7d88086/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -1419,7 +1453,7 @@
      "name": "เสือตัดสิงห์ ลิงหลอกเจ้า  ตอนที่ 6",
      "info": "วันที่ 3 ตุลาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg",
-     "url": "No url m3u8",
+     "url": "https://www.watchlakorn.in/egdeny/e338a97101e1b77d1b8e15c8a2be5643/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     },
     {
@@ -1997,6 +2031,13 @@
      "info": "วันที่ 11 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
      "url": "https://www.watchlakorn.in/egdeny/14faf96ea7a45b2198c8a78c4310246c/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลัดฟ้าล่าฝัน  ตอนที่ 11",
+     "info": "วันที่ 18 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1694272504.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/036cb6458caac7c3e2337dd6d2588733/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2740,6 +2781,13 @@
      "info": "วันที่ 12 พฤศจิกายน 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1693656371.jpg",
      "url": "https://www.watchlakorn.in/egdeny/9cbdaa6518bcbf54658def538acb0490/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พิภพมัจจุราช หัวร้อนซ่อนกรรม  ตอนที่ 22",
+     "info": "วันที่ 18 พฤศจิกายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693656371.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/db1bb8ee58cf0a50b8ca18ef7661834f/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -10341,6 +10389,96 @@
      "info": "วันที่ 17 กรกฏาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1682987034.jpg",
      "url": "https://www.watchlakorn.in/egdeny/5c67b47aee4b03b57eed2d2f33088f23/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    }
+   ]
+  },
+  {
+   "name": "ฝนตกครั้งนั้นฉันรักเธอ [จบแล้ว]",
+   "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+   "stations": [
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 1",
+     "info": "วันที่ 29 เมษายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/2d76571a63c7dcd617de53917f0ce2a4/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 2",
+     "info": "วันที่ 6 พฤษภาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/33b7618f418b77b78b313e2c8f1d3147/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 3",
+     "info": "วันที่ 13 พฤษภาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/7822c5f50edfcf24c1e5737bc0c54bb1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 4",
+     "info": "วันที่ 20 พฤษภาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/2a0ccba1aea5b11ad9d4121f309a08ee/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 5",
+     "info": "วันที่ 27 พฤษภาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/451658dc6ac055cf16a3bb8baeb8187d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 6",
+     "info": "วันที่ 3 มิถุนายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/72625a30be85de88d20158d9435340e6/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 7",
+     "info": "วันที่ 10 มิถุนายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/e1889595288521c5db9ccc9ebe43c5a0/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 8",
+     "info": "วันที่ 17 มิถุนายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/cd460b55f62245f850c58d5a168847a5/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 9",
+     "info": "วันที่ 24 มิถุนายน 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/2352d1ff3ee0b8a4c1048ed965c6cd26/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 10",
+     "info": "วันที่ 1 กรกฏาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/1b2116306a2c49adbbc7db6bbaddf71a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอ  ตอนที่ 11",
+     "info": "วันที่ 8 กรกฏาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/c12b4f3d7285ce45c9ccf5684d0583b1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ฝนตกครั้งนั้นฉันรักเธอตอนจบ  ตอนที่ 12",
+     "info": "วันที่ 15 กรกฏาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1682818351.webp",
+     "url": "https://www.watchlakorn.in/egdeny/957884e63a8a547926439166c3d99e8b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -62686,180 +62824,6 @@
      "info": "วันที่ 11 ตุลาคม 2563",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1598720823.jpg",
      "url": "https://www.watchlakorn.in/egdeny/cacb4e2e51fab8ac2da33903f8ce35f8/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    }
-   ]
-  },
-  {
-   "name": "เพลิงนาง [จบแล้ว]",
-   "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-   "stations": [
-    {
-     "name": "เพลิงนาง  ตอนที่ 1",
-     "info": "วันที่ 15 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/324950d5932fc7ef8ab26bac1e847b0b/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 2",
-     "info": "วันที่ 16 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/57374e117d6abbcd9dfbe52371d2b68a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 3",
-     "info": "วันที่ 22 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/668b6276205a929bf09b67bb9a72a8ef/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 4",
-     "info": "วันที่ 23 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/8c0212ce0abe5ea482bf615998907498/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 5",
-     "info": "วันที่ 29 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bc03342d89c14abaf583881004342095/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 6",
-     "info": "วันที่ 30 สิงหาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/9e82ae2310ad1242a76043003f7268d0/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 7",
-     "info": "วันที่ 5 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/169d832de8a68bdea666589f2f082d56/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 8",
-     "info": "วันที่ 6 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/16867c7cb06e3beed7d0fc80042070d2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 9",
-     "info": "วันที่ 12 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/2ae81d755a1e904545daf12fd47ef027/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 10",
-     "info": "วันที่ 13 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c804e3eb5e8e44ed6fa8104bffb1231f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 11",
-     "info": "วันที่ 19 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/3c924876464305b79ca30c9c1e9c7394/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 12",
-     "info": "วันที่ 20 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/74c1d46c402de0514a9f3693b68a8864/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 13",
-     "info": "วันที่ 26 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e49fab192b7f5c90e15dbc59d1d8debc/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 14",
-     "info": "วันที่ 27 กันยายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0cd444e6080913eb07d39d3cbc428110/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 15",
-     "info": "วันที่ 3 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/525628bb30d9af93846f0640e5f70e5f/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 16",
-     "info": "วันที่ 4 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/b58a0cab66061c308ed7b1a6053567b2/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 17",
-     "info": "วันที่ 10 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/bc801fb26e07b87a80035fc9ce5938ef/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 18",
-     "info": "วันที่ 11 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/3d74d967a75c461b097c72cf2fe6bb99/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 19",
-     "info": "วันที่ 17 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/c27eb827163b5c749296b21e38d89af4/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 20",
-     "info": "วันที่ 18 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/45728742c649ce872cfebbec4ebf8274/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 21",
-     "info": "วันที่ 24 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/5ed70a3a91e745c551a817dd5188785a/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 22",
-     "info": "วันที่ 25 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/e826b4fe07a4ff9587e9404d29a1e74e/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนาง  ตอนที่ 23",
-     "info": "วันที่ 31 ตุลาคม 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/0eca7ad7f742382edf769d6c0fbf8de9/aGQ=/master.m3u8",
-     "referer": "https://www.watchlakorn.in/"
-    },
-    {
-     "name": "เพลิงนางตอนจบ  ตอนที่ 24",
-     "info": "วันที่ 1 พฤศจิกายน 2563",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1597544373.jpg",
-     "url": "https://www.watchlakorn.in/egdeny/481da694d2258bef706d5b518785d03a/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
