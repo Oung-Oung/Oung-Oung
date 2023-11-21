@@ -12,13 +12,13 @@
 	{
 		"name": "",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ12/%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99.txt",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับน้า/%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99.txt",
 		"embed": "true"
 	},
 	{
 		"name": "",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
-		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ12/%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
+		"url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับน้า/%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
 		"embed": "true"
 	}
 	]
@@ -4060,7 +4060,7 @@
       ]
     }
   ]
-},]}]}]}]}]}
+},
 {
 	"name":"บอลสด",
 	"image":"https://lh3.googleusercontent.com/-pkkoZLH2QP8/ZRMlYeu6l8I/AAAAAAAAFrg/Pkogh_UyfUMvl3uSdfaTn1jGxTSAKY4sACEwYBhgLKqsFAPYkdFslroqn2cyC9PeQXnsv8sp1XSxcKgLIMBpitjQUH7m-iCcqV1yget-x47eGUEIgyZS94SbEFIOOs85XWJT-DAGUVUnjQ3MLXKjYWBRPEB2EvJTiPAEphaHfMY7UPyvwYt9rt6cf-nnqD3N1hTokOXmyWQMeiPkTTPCRU8p254doHws2Y_GLkgf7ya7d6yxBITsQmnBdoHdbKd1DiopuKB1afsvZsNJ_GmQ1K9pRfnrXGkvGqZ1tIwsfbzEYSVq0xWGJWeYY0M-alM2e83yptDhKfvaGf4ESveXENdBlrmB0W8d6nv5b8oWcrZcTtklRL0EQcwfLoBVFUYJYj_02hJbLG7nJdNWGijdnc4KKDm485gosWJtV2zzCESHg3siG-TSNL98qMq-zPo40xH9jHzVdGXBDO6DYG4RztXRdmq3UtxdyY470OA8DWUMCtmVlErmqXsFeLt6DfMH6O-df0_NvhLB2l7n7Qj8YcQFIHUgIgkZFBczGOXNElREKARz0MhZnSOreVom7l_fHKCi0H2bUoch3zpj9JWp9wY669e-Oo5SBQ9FrrVlaAXTSoAdGlX2UMjrKFNmIZU7hAIa38YriE0yaCMCsAS8iPNOgTdCHWIqtUwYTlisuKHHsu7KT2sAHOnYwzoB0NHH38aIIkEXfwTMZSmbzFVfeL5BoT6vmpccwFaoctbbJAGKANdFE9Jx6WCu2gBZX7ctYrhOdTfmYnWSVpgOaDVAEVu_DEYDPKKhIjrsrKAayChkhegT6LZVhV0WIm5Hq8eHodb3WdAuuw_kRo4OaOdhEbQIJp2C5vxFXBh6Qv7SMpuhTI5ZZH0TvarfykG4qXlKlvnWuUN247FXcGjOkp4Hy94Rer4CbAiYAQmyI2YoxGm0GWr1kkpNVK1iQvPgw1ffMqAY/w140-h78-p/COVER_BALLTODAY.gif",
@@ -4069,14 +4069,14 @@
 	  "name": "soccertv4k",
 	  "author": "",
 	  "image": "https://soccertv4k.com/wp-content/uploads/2022/11/soccertv4k-logo-v2-300x116-1.png",
-	  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ12/by/soccertv4k_.w3u",
+	  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับน้า/by/soccertv4k_.w3u",
 	  "import": "true"
 	},
 	{
 	  "name": "aisplay24hd",
 	  "author": "",
 	  "image": "https://www.aisplay24hd.com/wp-content/uploads/2021/09/cropped-logo_m_md.png",
-	  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับนะจ๊ะ12/by/aisplay24hd_.w3u",
+	  "url": "https://raw.githubusercontent.com/Oung-Oung/Oung-Oung/Oung-Oung/Oung-Oung/main/อย่าแจกเดี๋ยวดับน้า/by/aisplay24hd_.w3u",
 	  "import": "true"
 	}
   ]
