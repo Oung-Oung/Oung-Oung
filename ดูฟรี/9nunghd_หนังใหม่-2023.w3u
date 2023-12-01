@@ -1,9 +1,401 @@
 {
  "name": "หนังใหม่ 2023",
- "author": "เจียว เจียว อัพวันที่ 30 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 01 ธันวาคม 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "Carlos (2023) คาร์ลอส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Carlos-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Carlos (2023) คาร์ลอส",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Carlos-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5154484b-8c45-4067-8c74-28ac50e9a6f5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Carlos (2023) คาร์ลอส",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Carlos-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/da5b9cb3-cd31-5a59-ade0-72e7dbdbcb18.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Landscape with Invisible Hand (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Landscape-with-Invisible-Hand-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Landscape with Invisible Hand (2023)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Landscape-with-Invisible-Hand-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f3c10a1d-c551-4917-b76e-423bd254b4d9/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Landscape with Invisible Hand (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Landscape-with-Invisible-Hand-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d9598527-1fa1-5938-b990-af4d2a115283.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mission Raniganj (2023) กู้ภัยเหมืองนรก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Mission-Raniganj-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Mission Raniganj (2023) กู้ภัยเหมืองนรก",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Mission-Raniganj-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/d148187d-7adf-457b-bbd1-7b0cb485e563/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Mission Raniganj (2023) กู้ภัยเหมืองนรก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Mission-Raniganj-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/315bacbf-e43f-53a0-9329-3e670db9c0e6.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sweet Home 2 (2023) สวีทโฮม ซีซัน 2",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Episode 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/110ca555-37c2-5ff3-9891-3e0060358337.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 1",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/6c37485b-a86d-541b-b2ad-8a3dc322e203.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/e199ef4e-7e58-56f7-a48b-55e250e5c57c.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 2",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/bdf5432e-cd3d-5731-87bf-0369c2cc4042.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/92fb5185-dd02-5b2f-b042-00bed4069aa8.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 3",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/db8edaae-e6ea-5a9f-866d-97728b467f8b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/0fa3c4f9-8c07-511c-8a2c-40e7c6f7721e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 4",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/eb90af56-6a9a-55dc-b677-77e82c488d6e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/159081e2-f6af-529e-aa69-b7da43d8168e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 5",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/aebd8546-a049-53ba-a514-7b9d0059d873.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/31c632db-72ee-5dc5-a778-09564237f4a2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 6",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/05a7ebcb-7c73-5773-8f12-1a6565fc3bb8.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/11e42632-21f4-59bb-be9a-bd4512634a29.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 7",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/688c9a4c-531c-5f8a-b693-c37781bb7062.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/577f7abb-c134-5d3a-8338-63d971a0ea2f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 8",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/db2adae2-7fe4-5db6-8988-cf5fc8339843.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/c44b2096-13e3-523e-bcfc-5b8b366df9c7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 9",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/63c32719-3f0c-506c-add7-9746890b5e88.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/baffbae7-a2e6-5aeb-b330-b04bc12a7fd9.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 10",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Sweet-Home-2-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/3530b3eb-7d76-5afe-a4de-d4e92fcdd349.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/413a8072-4964-417e-a78e-2113d24b2b49/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/909e2097-d0b7-5847-b55e-b2812f86170c.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b07267c5-7744-4fe1-beb8-001a5e7e3cc0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/20502b78-8319-527c-8704-cd053ac2a943.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/73d57473-441e-43e7-9f3e-705ee3095a0d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/e7bce01a-7ba2-5360-8cc4-c3365872981c.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/89be3029-d8ec-40d0-9f72-8d0ade0a6ce0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/11c3d816-8763-56ee-abc9-dd97b1ef1568.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/54e68859-3ce4-4ff1-b9bf-6c5ec03352e1/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/77b3dc20-9f9c-5165-b969-94d3ab612fb2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/yW97MlBddOeiw17zUSf2iWvOmkr-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/yW97MlBddOeiw17zUSf2iWvOmkr-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8b40bd2f-e624-4c35-80a1-1be884be7117/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "A Thousand and One (2023) หนึ่งพันหนึ่ง",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/yW97MlBddOeiw17zUSf2iWvOmkr-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/b7fd50a9-08ea-5351-a654-6ebdab382bc8.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/cqDyfPay41oiMEwuNCi5fl2o7Tq-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/cqDyfPay41oiMEwuNCi5fl2o7Tq-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/10400ac3-f713-4f30-a0b4-c973bf4660de/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/cqDyfPay41oiMEwuNCi5fl2o7Tq-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/05845da6-9edc-5367-a3ef-ac828e513cb4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/cqDyfPay41oiMEwuNCi5fl2o7Tq-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/af303102-36b7-4db2-870c-fe5e003b74ba/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Freelance (2023) จ็อบระห่ำ คนถึกระทึกโลก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/cqDyfPay41oiMEwuNCi5fl2o7Tq-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/de28002a-b0be-5db5-9afd-b3bf22be4fd1.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Candy Cane Lane (2023) แคนดี้ เคนเลน คุณพ่อดวงจู๋ ขอกู้วิกฤติคริสต์มาส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/leha1WA5WxcteHTHEntv7crwOp6-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Candy Cane Lane (2023) แคนดี้ เคนเลน คุณพ่อดวงจู๋ ขอกู้วิกฤติคริสต์มาส",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/leha1WA5WxcteHTHEntv7crwOp6-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/3515ebb1-2e5e-4204-a5b3-8ce975e4df7f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Candy Cane Lane (2023) แคนดี้ เคนเลน คุณพ่อดวงจู๋ ขอกู้วิกฤติคริสต์มาส",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/leha1WA5WxcteHTHEntv7crwOp6-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/7b2cbccc-072f-573d-a3fc-b56048c08f03.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Candy Cane Lane (2023) แคนดี้ เคนเลน คุณพ่อดวงจู๋ ขอกู้วิกฤติคริสต์มาส",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/leha1WA5WxcteHTHEntv7crwOp6-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f718ab43-8ece-40fc-b806-241c0a13c218/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Candy Cane Lane (2023) แคนดี้ เคนเลน คุณพ่อดวงจู๋ ขอกู้วิกฤติคริสต์มาส",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/leha1WA5WxcteHTHEntv7crwOp6-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/06b4e9c6-6844-5b06-a0b4-ead3fea76a5b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Family Switch (2023) ครอบครัวตัวสลับ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/w4gM3AJFy9mzmUM33LGKS2LH6ga-190x300-c-default.webp",
@@ -434,41 +826,6 @@
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/YUFYGNHiYazai7N6D4TYLy3r10-190x300-c-default.webp",
      "url": "https://streamhls.com/view/572f4840-2319-5736-b8ec-3ac71b17cceb.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/834514b9-653f-4690-bd20-3612bc74a3a5/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/32c4870f-931c-5972-a391-2953c071630c.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/b07267c5-7744-4fe1-beb8-001a5e7e3cc0/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/20502b78-8319-527c-8704-cd053ac2a943.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1190,6 +1547,13 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/ac40d1df-a55b-5514-82d5-5ed6964b559f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 4",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/0be84802-3b5c-54a1-a2e2-ac9c1810b6aa.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2392,27 +2756,6 @@
    ]
   },
   {
-   "name": "Dumb Money (2023) ปั่นเงินรวยป่วนโลก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ncYkcr0GeWSOHEKVDdcnwNb8SDU-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Dumb Money (2023) ปั่นเงินรวยป่วนโลก",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ncYkcr0GeWSOHEKVDdcnwNb8SDU-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/3e29b1d8-19b8-4062-a8c6-eb887f64ee6a/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Dumb Money (2023) ปั่นเงินรวยป่วนโลก",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/ncYkcr0GeWSOHEKVDdcnwNb8SDU-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/fc415de8-a775-5788-b975-da58ff1e907d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Land of Gold (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/pz7WgHeuuJN88qDuDNzV6KXamdu-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -2471,41 +2814,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/q04g3un61aeBoheQEso7enM28AF-scaled-190x300-c-default.webp",
      "url": "https://streamhls.com/view/80cea5d0-a8c9-5af0-a7d2-a6232975cd9b.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/c1d8939c-df23-4fe8-8f05-d30aa6c5c95b/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/136a6829-56d1-5ed0-8250-a432edab0be2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/89be3029-d8ec-40d0-9f72-8d0ade0a6ce0/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/11c3d816-8763-56ee-abc9-dd97b1ef1568.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -8208,27 +8516,6 @@
    ]
   },
   {
-   "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/17115606-a535-4c5d-8067-5500507ee1bf/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b400bc09-de41-5329-a1f7-39e5db358cd2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Sitting In Bars With Cake (2023) สูตรเค้กสื่อรัก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sitting-In-Bars-With-Cake-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -8860,14 +9147,14 @@
      "name": "Indiana Jones And The Dial Of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
      "info": "ตัวเล่นหลัก พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Indiana-Jones-And-The-Dial-Of-Destiny-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/2d7d782a-b31a-4486-92c0-8d077fb3714b/_",
+     "url": "https://play.kakjeawplay.xyz/20d3fe18-e0e1-47a0-8afc-8342e7b11b41/_",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Indiana Jones And The Dial Of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Indiana-Jones-And-The-Dial-Of-Destiny-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/0773b77e-b2d2-58ca-9344-be73d6e84612.m3u8",
+     "url": "https://streamhls.com/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
