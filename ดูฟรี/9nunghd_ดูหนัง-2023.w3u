@@ -1,9 +1,44 @@
 {
  "name": "ดูหนัง 2023",
- "author": "เจียว เจียว อัพวันที่ 30 พฤศจิกายน 2566",
+ "author": "เจียว เจียว อัพวันที่ 15 ธันวาคม 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "The Childe (2023) เทพบุตร ล่านรก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/The-Childe-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Childe (2023) เทพบุตร ล่านรก",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/The-Childe-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0541b235-af4f-46a7-bb8e-90d8ffabb591/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Childe (2023) เทพบุตร ล่านรก",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/The-Childe-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c2d22c8e-3553-5441-abae-df95c8a06af4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Childe (2023) เทพบุตร ล่านรก",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/The-Childe-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/13ccee6a-dcd0-4868-b76e-856117d7d6a7/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Childe (2023) เทพบุตร ล่านรก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/The-Childe-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/16d97547-a122-59a5-94f2-e8b6170f0c70.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "พรหมลิขิต (2023) Love Destiny 2",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Love-Destiny-2023-190x300-c-default.webp",
@@ -117,6 +152,405 @@
    ]
   },
   {
+   "name": "ชะนีปีชง (2023) Happy Bad Year",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Episode 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/2623d9a7-a062-5db2-ab84-03ed3687f8c1.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/0e36178a-c4d5-534f-bf0f-82df5f7c52f2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/b917d5b5-84d8-5e6e-8b08-2ccba73cb084.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/190bee72-c1bc-5923-9316-99204a127182.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/c590779a-27a8-5eaf-a5d2-0b65b2b93811.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/63870dda-17fc-5578-8b8f-c19012a704e3.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/091f76d1-c930-5b80-a39c-a0c0bd3c5940.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/bd03960a-2b28-599e-9581-b9e268525554.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/540b7694-a1c5-514e-891a-df82c6fba96b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/900fe11a-fa88-5353-a02c-956865fce009.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/76e37b91-cc22-5685-aea7-e838a062b5bc.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/0c73db15-1eb8-54d7-8375-89247e34dcbd.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/50559e5a-20cb-53eb-9143-efa719f3a3d1.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/6ae8695c-2308-51e4-ab7d-b40e57802f3f.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Episode 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/a4fc04bc-fd40-526b-96c0-250dc4024a96.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "LEGO Marvel Avengers Code Red (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "LEGO Marvel Avengers Code Red (2023)",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/74ada920-9dd1-4f15-8e3d-6931dcf492bd/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "LEGO Marvel Avengers Code Red (2023)",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/82e302c8-ea1e-59e7-8181-6a2195be499e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "LEGO Marvel Avengers Code Red (2023)",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f805beac-48bd-4f03-abd1-a4dab9d4f8b4/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "LEGO Marvel Avengers Code Red (2023)",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/82aeb2ab-a9ab-5b74-8c0a-6aef95d84ce9.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/bf4e192b-d0e3-4f14-a54e-bf8700871f2f/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/278e9dc1-4e8b-58c0-b0ff-6729bacfc5da.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0eaf591f-b9f0-475d-b926-de7bcff58f60/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/eae2c589-750f-5676-aedb-6ea5d5863fdd.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Confidential Informant (2023) ปฏิบัติการข้อมูลลับ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Confidential-Informant-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Confidential Informant (2023) ปฏิบัติการข้อมูลลับ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Confidential-Informant-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b2c425c5-6f25-4170-8b0e-82a8dd22763e/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Confidential Informant (2023) ปฏิบัติการข้อมูลลับ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Confidential-Informant-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2c0e2a43-71ef-5c0e-bcbf-0c2fb3291174.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/f41760f2-89c7-4d24-86ad-fbca76c9833c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/c92cecbd-5c27-52b8-a02c-6e3450120992.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7257ddbb-faf1-4f8c-87a1-90ca762d4cc5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/f1a53a82-5adb-5b3a-9b03-22d574ee2635.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Renfield (2023) เรนฟิลด์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Renfield (2023) เรนฟิลด์",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/113331b9-a92f-43e1-8848-821d1bd33acd/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Renfield (2023) เรนฟิลด์",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/fb7a8d75-15a3-5015-aa33-7117d4a55ee7.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Renfield (2023) เรนฟิลด์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/9d9f8279-fe04-4dd6-b940-c7bfaf4d358c/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Renfield (2023) เรนฟิลด์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/d00444b5-3a0c-509c-976d-57e78c6cda12.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Knock at the Cabin (2023) เสียงเคาะที่กระท่อม",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Knock at the Cabin (2023) เสียงเคาะที่กระท่อม",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5b3ce978-604e-4ad7-aa72-551ba6a43da5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Knock at the Cabin (2023) เสียงเคาะที่กระท่อม",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/996944af-cd29-59c0-a9a6-5d66a07cbe9a.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Knock at the Cabin (2023) เสียงเคาะที่กระท่อม",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/e1572f40-d1eb-4005-8e21-50c41ff9e7d4/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Knock at the Cabin (2023) เสียงเคาะที่กระท่อม",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2b9900d2-f406-5a34-b53f-99879544fc03.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b5ab1782-26bc-418e-a271-1248be0422de/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/bccab715-0a3d-5051-abc9-bf78f567a156.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/89be3029-d8ec-40d0-9f72-8d0ade0a6ce0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/11c3d816-8763-56ee-abc9-dd97b1ef1568.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/413a8072-4964-417e-a78e-2113d24b2b49/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/909e2097-d0b7-5847-b55e-b2812f86170c.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/b07267c5-7744-4fe1-beb8-001a5e7e3cc0/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/20502b78-8319-527c-8704-cd053ac2a943.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/54e68859-3ce4-4ff1-b9bf-6c5ec03352e1/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/77b3dc20-9f9c-5165-b969-94d3ab612fb2.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Doraemon The Movie Nobita Sky Utopia (2023) โดราเอมอน ตอน ฟากฟ้าแห่งยูโทเปียของโนบิตะ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023-190x300-c-default.webp",
    "info": "พากย์ไทย",
@@ -133,41 +567,6 @@
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/Doraemon-The-Movie-42-Nobita-Sky-Utopia-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c45657e9-f524-5e01-9e9a-af28a5d90b98.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/834514b9-653f-4690-bd20-3612bc74a3a5/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/32c4870f-931c-5972-a391-2953c071630c.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/b07267c5-7744-4fe1-beb8-001a5e7e3cc0/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "About My Father (2023) ตัวพ่อจะแคร์เพื่อ",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/About-My-Father-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/20502b78-8319-527c-8704-cd053ac2a943.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -698,41 +1097,6 @@
    ]
   },
   {
-   "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/c1d8939c-df23-4fe8-8f05-d30aa6c5c95b/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/136a6829-56d1-5ed0-8250-a432edab0be2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/89be3029-d8ec-40d0-9f72-8d0ade0a6ce0/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/ovgxgdap01vOzSaDOQrewZuy7ea-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/11c3d816-8763-56ee-abc9-dd97b1ef1568.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Praise This (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/twdgFrp9Sd8rb3TdbWFQXAvslrH-scaled-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -1155,27 +1519,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/A-Haunting-in-Venice-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/5b7b47ee-1e2e-531c-b2f9-41079e7db5e6.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "LEGO Marvel Avengers Code Red (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "LEGO Marvel Avengers Code Red (2023)",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/74ada920-9dd1-4f15-8e3d-6931dcf492bd/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "LEGO Marvel Avengers Code Red (2023)",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/rDzig50dj7VpLwJ7SThbamETK1G-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/82e302c8-ea1e-59e7-8181-6a2195be499e.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -1712,41 +2055,6 @@
    ]
   },
   {
-   "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/bf4e192b-d0e3-4f14-a54e-bf8700871f2f/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/278e9dc1-4e8b-58c0-b0ff-6729bacfc5da.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/0819d64c-5fbc-43cc-96d0-fe7cfe940936/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/f0d503b1-fa52-5481-b5b8-b471b699c6aa.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Vjeran Tomic The Spider-Man of Paris (2023) เวรัน โทมิช สไปเดอร์แมน แห่งปารีส",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lUBT05GUcG0ms0UjGx4p0YBhqdI-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -2197,6 +2505,27 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/thXk2TS22OpXgFlZNV9JZ2KfZEl-190x300-c-default.webp",
      "url": "https://streamhls.com/view/f7f983cc-1389-5369-a4bb-9bee3cdd55a9.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Other Zoey (2023) ไฮโซที่รัก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/f6bFR9tRNXoYCrQTtOdKMig9lkR-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Other Zoey (2023) ไฮโซที่รัก",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/f6bFR9tRNXoYCrQTtOdKMig9lkR-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/20129789-099e-41db-93ef-183701dbad33/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Other Zoey (2023) ไฮโซที่รัก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/f6bFR9tRNXoYCrQTtOdKMig9lkR-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/520d0083-7a1a-5447-92ae-c57fbdfbacc3.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -4211,6 +4540,41 @@
    ]
   },
   {
+   "name": "Insidious The Red Door (2023) วิญญาณตามติด ประตูผีผ่าน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Insidious The Red Door (2023) วิญญาณตามติด ประตูผีผ่าน",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/8f8ddbaa-f2e7-4252-8ad6-299b81d3bdc5/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Insidious The Red Door (2023) วิญญาณตามติด ประตูผีผ่าน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/4fbc149a-1f93-52c8-b244-a93674164073.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Insidious The Red Door (2023) วิญญาณตามติด ประตูผีผ่าน",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/28c4a496-3a47-4fd1-9576-c59f198e923d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Insidious The Red Door (2023) วิญญาณตามติด ประตูผีผ่าน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/f9aceda7-9330-5df8-bceb-45db42bee683.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Lang Lang Plays Disney (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Lang-Lang-Plays-Disney-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -6129,27 +6493,6 @@
    ]
   },
   {
-   "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/17115606-a535-4c5d-8067-5500507ee1bf/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Last Voyage of the Demeter (2023) การเดินทางครั้งสุดท้ายของเดอมิเทอร์",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/The-Last-Voyage-of-the-Demeter-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b400bc09-de41-5329-a1f7-39e5db358cd2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Sitting In Bars With Cake (2023) สูตรเค้กสื่อรัก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Sitting-In-Bars-With-Cake-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -6781,14 +7124,14 @@
      "name": "Indiana Jones And The Dial Of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
      "info": "ตัวเล่นหลัก พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Indiana-Jones-And-The-Dial-Of-Destiny-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/2d7d782a-b31a-4486-92c0-8d077fb3714b/_",
+     "url": "https://play.kakjeawplay.xyz/20d3fe18-e0e1-47a0-8afc-8342e7b11b41/_",
      "referer": "https://www.9nunghd.com/"
     },
     {
      "name": "Indiana Jones And The Dial Of Destiny (2023) อินเดียน่า โจนส์ กับกงล้อแห่งโชคชะตา",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Indiana-Jones-And-The-Dial-Of-Destiny-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/0773b77e-b2d2-58ca-9344-be73d6e84612.m3u8",
+     "url": "https://streamhls.com/view/b02cd836-731b-52bc-a9fb-0018993a3bbc.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -7627,6 +7970,41 @@
    ]
   },
   {
+   "name": "Heart of Stone (2023) ฮาร์ท ออฟ สโตน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Heart-of-Stone-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Heart of Stone (2023) ฮาร์ท ออฟ สโตน",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Heart-of-Stone-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/7a1a1679-ef32-4c18-89a1-7a7dc6dc0d10/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Heart of Stone (2023) ฮาร์ท ออฟ สโตน",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Heart-of-Stone-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/8d2e1a8c-53c3-5ef3-8850-128f2adc855d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Heart of Stone (2023) ฮาร์ท ออฟ สโตน",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Heart-of-Stone-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/1a83fd32-5acb-4c37-bfd9-202322efcf76/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Heart of Stone (2023) ฮาร์ท ออฟ สโตน",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Heart-of-Stone-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/0e27ff20-1a9e-5cac-bb18-d1e30d1b8d12.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
    "name": "Losmen Melati (2023) ลอสเมน เมลาติ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Losmen-Melati-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -7685,41 +8063,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Guess-If-I-Am-A-Hero-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c4731c12-563c-590e-8e96-acf5f6a80305.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/132b5c48-0442-4b5a-b064-68513fd58e4d/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/56134c0b-e77f-53e2-9396-2a6693a4e99d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/5b8165a9-a317-4fee-8568-dfb75cc321ab/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/85f69f2e-a45a-5fc8-a5ef-36365f331779.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -8224,27 +8567,6 @@
      "info": "ตัวเล่นหลัก ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/My-Puppy-2023-190x300-c-default.webp",
      "url": "https://play.kakjeawplay.xyz/4200af31-d39a-40f2-baec-9a6d5023a5c0/_",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Childe (2023) เทพบุตร ล่านรก",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/The-Childe-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "The Childe (2023) เทพบุตร ล่านรก",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/The-Childe-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/f669b9b7-e546-47e2-8c8b-e72402118561/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Childe (2023) เทพบุตร ล่านรก",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/The-Childe-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b82ca61a-a331-5ac9-a041-1d08096a22a7.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -9939,27 +10261,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/A-Good-Person-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a57ffc8f-6151-5cee-8434-31ccf279958c.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Confidential Informant (2023) ปฏิบัติการข้อมูลลับ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Confidential-Informant-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Confidential Informant (2023) ปฏิบัติการข้อมูลลับ",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Confidential-Informant-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/3afd2fca-8f37-46bd-aa23-ac2ef26b2cd1/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Confidential Informant (2023) ปฏิบัติการข้อมูลลับ",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Confidential-Informant-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/a0973d0c-9bbe-5fc4-a636-f1e92f9d19fd.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -12891,27 +13192,6 @@
    ]
   },
   {
-   "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/7257ddbb-faf1-4f8c-87a1-90ca762d4cc5/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Sorcery Master (2023) จอมเวทย์เหนือเมฆ",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/The-Sorcery-Master-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/f1a53a82-5adb-5b3a-9b03-22d574ee2635.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Soul Of Light (2023) จิตวิญญาณหยางเสิน",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Soul-of-Light-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -13250,27 +13530,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Quasi-2023-Poster-190x300-c-default.webp",
      "url": "https://streamhls.com/view/ce985b66-d9d1-58f6-8b21-4ab93be7654e.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Renfield (2023) เรนฟิลด์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
-   "info": "พากย์ไทย(C)",
-   "stations": [
-    {
-     "name": "Renfield (2023) เรนฟิลด์",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/113331b9-a92f-43e1-8848-821d1bd33acd/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Renfield (2023) เรนฟิลด์",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/04/Renfield-2023-Poster-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/fb7a8d75-15a3-5015-aa33-7117d4a55ee7.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -15168,27 +15427,6 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/The-Strays-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/088a8916-3713-5f6e-b99c-916ee72967d9.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Knock at the Cabin (2023) เสียงเคาะที่กระท่อม",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Knock at the Cabin (2023) เสียงเคาะที่กระท่อม",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/e1572f40-d1eb-4005-8e21-50c41ff9e7d4/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Knock at the Cabin (2023) เสียงเคาะที่กระท่อม",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/2b9900d2-f406-5a34-b53f-99879544fc03.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
