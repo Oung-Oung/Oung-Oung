@@ -1,9 +1,44 @@
 {
  "name": "ดูหนัง 2023",
- "author": "เจียว เจียว อัพวันที่ 24 ธันวาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 28 ธันวาคม 2566",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/298422ee-e93f-422d-a76e-366ac54c9f9d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/071e94cf-d297-55f4-922c-b6d904e64093.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/0eaf591f-b9f0-475d-b926-de7bcff58f60/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/eae2c589-750f-5676-aedb-6ea5d5863fdd.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "ชะนีปีชง (2023) Happy Bad Year",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
@@ -259,6 +294,48 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
      "url": "https://sgcdnseriesn.xyz/view/fdbbf62f-b8d7-5c02-af55-942fdcbc3a0b.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/7aeda6b9-28fc-544c-8283-a400242d2490.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 19",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/7aeda6b9-28fc-544c-8283-a400242d2490.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/bcfa4ecf-3871-5545-af40-fb776f39fef5.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 20",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/bcfa4ecf-3871-5545-af40-fb776f39fef5.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/42d6e919-a70c-55e8-9423-d15570e83207.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ซีซั่น 1 ตอนที่ 21",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/Happy-Bad-Year-2023-190x300-c-default.webp",
+     "url": "https://sgcdnseriesn.xyz/view/42d6e919-a70c-55e8-9423-d15570e83207.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -985,41 +1062,6 @@
    ]
   },
   {
-   "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ตัวเล่นหลัก พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/bf4e192b-d0e3-4f14-a54e-bf8700871f2f/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ตัวเล่นสำรอง พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/278e9dc1-4e8b-58c0-b0ff-6729bacfc5da.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/0eaf591f-b9f0-475d-b926-de7bcff58f60/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/eae2c589-750f-5676-aedb-6ea5d5863fdd.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Confidential Informant (2023) ปฏิบัติการข้อมูลลับ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/07/Confidential-Informant-2023-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -1519,27 +1561,6 @@
      "info": "ตัวเล่นสำรอง พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/2qAv3Oo5akuJgZUzMzBNamfcO1j-190x300-c-default.webp",
      "url": "https://streamhls.com/view/7c98e019-aa69-576c-a586-42791e6ef977.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Claus Family 3 (2023) คริสต์มาสตระกูลคลอส 3",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/1Z7wlsvuY9PfzWzm31M8pssuG27-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Claus Family 3 (2023) คริสต์มาสตระกูลคลอส 3",
-     "info": "ตัวเล่นหลัก ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/1Z7wlsvuY9PfzWzm31M8pssuG27-190x300-c-default.webp",
-     "url": "https://play.kakjeawplay.xyz/8c0700b1-225c-4d42-86c6-e42210e232c9/_",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Claus Family 3 (2023) คริสต์มาสตระกูลคลอส 3",
-     "info": "ตัวเล่นสำรอง ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/11/1Z7wlsvuY9PfzWzm31M8pssuG27-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/75837bb0-fe47-5ec4-88ef-5fe931e83caf.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -9568,6 +9589,41 @@
      "info": "ตัวเล่นสำรอง ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/Guess-If-I-Am-A-Hero-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c4731c12-563c-590e-8e96-acf5f6a80305.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/132b5c48-0442-4b5a-b064-68513fd58e4d/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/56134c0b-e77f-53e2-9396-2a6693a4e99d.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
+     "info": "ตัวเล่นหลัก ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
+     "url": "https://play.kakjeawplay.xyz/5b8165a9-a317-4fee-8568-dfb75cc321ab/_",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "No Hard Feelings (2023) สาวแซ่บ…แอ๊บมาอ่อย",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/No-Hard-Feelings-2023-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/85f69f2e-a45a-5fc8-a5ef-36365f331779.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
