@@ -1,6 +1,6 @@
 {
  "name": "ละคร",
- "author": "เจียว เจียว อัพวันที่ 29 ธันวาคม 2566",
+ "author": "เจียว เจียว อัพวันที่ 02 มกราคม 2567",
  "info": "Watchlakorn ที่สุดของคนรักละคร",
  "image": "https://cdn.watchlakorn.in/images/video_logo.png",
  "groups": [
@@ -13,6 +13,13 @@
      "info": "วันที่ 23 ธันวาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1703375947.jpg",
      "url": "https://www.watchlakorn.in/egdeny/5fc4a6bba793371c716812a0505c72e1/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เพื่อน ตาย DFF  ตอนที่ 2",
+     "info": "วันที่ 30 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1703375947.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/c05437cbc8c7afe16e72b1ef41b6241b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -239,6 +246,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1701019858.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f06669fa821bf507b732016891a5349f/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ศพกระซิบ  ตอนที่ 6",
+     "info": "วันที่ 31 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1701019858.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bb500f2a9e2a1150729266c2945caf81/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -279,6 +293,13 @@
      "info": "วันที่ 23 ธันวาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700963733.jpg",
      "url": "https://www.watchlakorn.in/egdeny/173fe7d0fe501d8d852be54fd5eb139f/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ลางสังหรณ์  ตอนที่ 6",
+     "info": "วันที่ 30 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700963733.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/623977ae1017fecf09e0099b838288fb/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -610,6 +631,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1700238133.jpg",
      "url": "https://www.watchlakorn.in/egdeny/f093e1b510e9fdf6589d30e56c964b3d/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "Pit Babe The Series  ตอนที่ 7",
+     "info": "วันที่ 29 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1700238133.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/57641e967e67a627db5237545d124fc2/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -818,11 +846,18 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
      "url": "https://www.watchlakorn.in/egdeny/abd090ecb1c633ff93b1edafc984ff40/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "เส้นทางรักพิชิตดวงดาว  ตอนที่ 8",
+     "info": "วันที่ 30 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699747502.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/0a97e66c950fbba0213ccb60142d9dd8/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
   {
-   "name": "พี่เจตคนกลาง [ยังไม่จบ]",
+   "name": "พี่เจตคนกลาง [จบแล้ว]",
    "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
    "stations": [
     {
@@ -872,6 +907,13 @@
      "info": "วันที่ 22 ธันวาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
      "url": "https://www.watchlakorn.in/egdeny/ec003b9cef2d7c1b7c0504871c445501/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พี่เจตคนกลางตอนจบ  ตอนที่ 8",
+     "info": "วันที่ 29 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665673.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/ea32cc09d64016329895d480f4102f2b/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -935,6 +977,13 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
      "url": "https://www.watchlakorn.in/egdeny/e8bfdf773cb081e8709ff56a058e1e97/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "สลับรักนักลูกยาง  ตอนที่ 9",
+     "info": "วันที่ 29 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699665737.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/2cacbc49388489ed21f1a4d21603b14a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -989,6 +1038,13 @@
      "info": "วันที่ 22 ธันวาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1699632286.jpg",
      "url": "https://www.watchlakorn.in/egdeny/6dae90c67c2fdb49a45e7c198602419a/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "ภาพนายไม่เคยลืม  ตอนที่ 8",
+     "info": "วันที่ 29 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1699632286.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/5bfece40de9f928dd12fa6cbf0180287/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -2540,6 +2596,20 @@
      "info": "วันที่ 24 ธันวาคม 2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
      "url": "https://www.watchlakorn.in/egdeny/830dfcfdf97166f23a048744f7e72963/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หลังคาใบบัว  ตอนที่ 20",
+     "info": "วันที่ 30 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bdf313b159804cebf0433f0b43534548/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "หลังคาใบบัว  ตอนที่ 21",
+     "info": "วันที่ 31 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/a486441f427145d1aae8fd839d153479/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
@@ -4800,6 +4870,20 @@
      "image": "https://cdn.watchlakorn.in/storage/images/av-1693656371.jpg",
      "url": "https://www.watchlakorn.in/egdeny/83e8825b6ab8edd90f07ab675df0d3f1/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พิภพมัจจุราช แรงกตัญญู  ตอนที่ 34",
+     "info": "วันที่ 30 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693656371.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bdd46f56a1cb4f29f026e9b84bbe299d/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "พิภพมัจจุราช ขวัญใจมวลชน ตอนที่ 35",
+     "info": "วันที่ 31 ธันวาคม 2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1693656371.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/502d7a14891f3dc8eedaa37b15d3c291/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
     }
    ]
   },
@@ -5482,10 +5566,17 @@
      "referer": "https://www.watchlakorn.in/"
     },
     {
-     "name": "รักเราเท่าจักวาล 1626 ใจนี้พี่จอง",
+     "name": "รักเราเท่าจักวาล 1626 ใจนี้พี่จอง EP.1",
      "info": "วันที่ 24 ธันวาคม2566",
      "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
      "url": "https://www.watchlakorn.in/egdeny/a8f7aa0793bffe86eb65d13771a1f801/aGQ=/master.m3u8",
+     "referer": "https://www.watchlakorn.in/"
+    },
+    {
+     "name": "รักเราเท่าจักวาล 1626 ใจนี้พี่จอง EP.2",
+     "info": "วันที่ 31 ธันวาคม2566",
+     "image": "https://cdn.watchlakorn.in/storage/images/av-1692579088.jpg",
+     "url": "https://www.watchlakorn.in/egdeny/bde23dcaa2ccfc051312dc32a1e9ee89/aGQ=/master.m3u8",
      "referer": "https://www.watchlakorn.in/"
     }
    ]
