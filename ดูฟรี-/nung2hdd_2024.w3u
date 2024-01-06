@@ -1,9 +1,44 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 05 มกราคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 06 มกราคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "Foe (2024) อมิตร",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Foe (2024) อมิตร",
+     "info": "ตัวเล่นสำรอง พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+     "url": "https://streamhls.com/view/1bfdc7c7-5285-5748-b0fe-a4325eea690d.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "Foe (2024) อมิตร",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Foe-2024.jpg",
+     "url": "https://streamhls.com/view/652d9ee9-f360-5930-adf4-498f83d36b1e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Good Grief (2024) ให้ตายเถอะความโศก",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Good-Grief.jpg",
+   "info": "HD SoundTrack(TH)",
+   "stations": [
+    {
+     "name": "Good Grief (2024) ให้ตายเถอะความโศก",
+     "info": "ตัวเล่นสำรอง ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Good-Grief.jpg",
+     "url": "https://streamhls.com/view/448bbb09-91ca-5930-90b1-01daddc8f63a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
   {
    "name": "The Brothers Sun พี่น้องแสบตระกูลซัน (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/The-Brother-Sun.jpg",
@@ -72,6 +107,13 @@
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
    "info": "พากย์ไทย",
    "stations": [
+    {
+     "name": "Society of the Snow (2024) หิมะโหด คนทรหด",
+     "info": "ตัวเล่นหลัก พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/01/Society-of-the-Snow-1.jpg",
+     "url": "https://play.kakjeawplay.xyz/0f5565de-7d76-496a-b964-32943e3f338e/_",
+     "referer": "https://www.nung2hdd.com/"
+    },
     {
      "name": "Society of the Snow (2024) หิมะโหด คนทรหด",
      "info": "ตัวเล่นสำรอง พากย์ไทย",
