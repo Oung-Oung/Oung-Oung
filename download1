@@ -1,0 +1,454 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwJ7gpec7FfzfRLDuExXQOlulhRVDD8OGUw&usqp=CAU" group-title="",อังคาร 20:30 ไทย U23 VS มาเลเซีย U23
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://cdn4k.googlecdn.live/4k/ch9/playlist.m3u8?wmsAuth=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MDQ6MzIgUE0maGFzaF92YWx1ZT1jUFBVeWZmNTNxaVNhMHVxSitVSnpnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png"  ,True Sport HD 1 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png"  ,True Sport HD 2 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png"  ,True Sport HD 3 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png"  ,True Sport HD 4 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png"  ,True Sport 5 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png"  ,True Sport 7 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png"  ,True Premier Football HD 1
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png"  ,True Premier Football HD 2
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png"  ,True Premier Football HD 3
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png"  ,True Premier Football HD 4
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-premier-football.png"  ,True Premier Football HD 5
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/premier-sports.png"  ,Premier Sports (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-premiersports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cctv.png"  ,CCTV 4
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-cctv4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cctv.png"  ,CCTV 4 (CN)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-cctv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bundesliga.png"  ,Sky Bundesliga (DE)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/setanta-hd.png"  ,Setanta Sports
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-setanta.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf.png"  ,NBC Golf
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-golfeng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/motorvision-tv.png"  ,Motorvision
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-motorvision.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png"  ,Fight Sports
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-fightsports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/edge.png"  ,Edge Sport
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-edge.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-premier.png"  ,Sky Sports Premier League (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-news.png"  ,Sky Sports News (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-news.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mix.png"  ,Sky Sports Mix (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-golf.png"  ,Sky Sports Golf (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-football-1.png"  ,Sky Sports Football (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/racing-uk-1.png"  ,Racing UK (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-racing.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lfc-tv.png"  ,Liverpool FC TV
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/at-the-races.png"  ,At The Races (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-attheraces.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png"  ,FOX Sports 2 (US)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/us-foxsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png"  ,FOX Sports 1 (US)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/us-foxsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nhk-world-tv.png"  ,NHK World Premium (JP)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-nhkpremium.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport-asia.png"  ,Eurosport Asia SD
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-eurosport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/espn.png"  ,ESPN
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-espn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/skynet-sports.png"  ,Skynet Sports 1 (MM)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-skynetsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/skynet-sports.png"  ,Skynet Sports 2 (MM)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-skynetsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/skynet-sports.png"  ,Skynet Sports 6 (MM)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-skynetsports6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/skynet-sports.png"  ,Skynet Sports 5 (MM)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-skynetsports5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/skynet-sports.png"  ,Skynet Sports 4 (MM)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-skynetsports4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/skynet-sports.png"  ,Skynet Sports 3 (MM)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-skynetsports3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/skynet-sports.png"  ,Skynet Sports HD (MM)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-skynetsportshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/skynet-sports.png"  ,Skynet Sports Plus (MM)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-skynetsportsplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png"  ,FOX Sports 3 (EN)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-foxsports3eng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png"  ,FOX Sports 2 (EN)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-foxsports2eng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png"  ,FOX Sports 1 (EN)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-foxsports1eng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png"  ,Euro Sport (FR)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/fr-eurosport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 9 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein9.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 8 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 7 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 6 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 5 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 4 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 3 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 2 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 10 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein10.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 1 (Arabic)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-bein1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 3 (French)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 2 (French)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png"  ,Arena Sport 4 Croatia
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png"  ,Arena Sport 3 Croatia
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png"  ,Arena Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-arena.png"  ,Sky Sports Arena (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png"  ,Euro Sport 2 (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png"  ,BT Sports 1 HD (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png"  ,BT Sports 2 HD (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png"  ,BT Sports 3 HD (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png"  ,BT Sports Extra 2 (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-btsportextra2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bt-sport-1.png"  ,BT Sports Extra (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-btsportextra1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png"  ,FOX Sports 3 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-foxsports3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png"  ,FOX Sports 2 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-foxsports2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-tennis.png"  ,True Tennis HD (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nba-tv.png"  ,NBA TV (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-nba.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nhk-world-tv.png"  ,NHK World (JP)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-nhkworld.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-action.png"  ,Sky Sports Action (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sporta-boxoffice.png"  ,Sky Sport Box Office (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skyboxoffice.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-fi.png"  ,Sky Sport F1 (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-cricket.png"  ,Sky Sports Cricket (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mainevent.png"  ,Sky Sport Main Event (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-4u.png"  ,True 4U (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-24u.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-sport-hd.png"  ,True Sport 2 (EN)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-tsport2eng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/arena-sport.png"  ,Arena Sport 1 Croatia
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/rs-arena1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png"  ,Bein Sport 1 (French)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/chelseas-tv.png"  ,Chelsea TV (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-chelseatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/egg-netword.png"  ,Egg Network
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/sd-eggnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png"  ,Euro Sport (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-eurosport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/espn.png"  ,ESPN (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-espn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png"  ,FOX Sports 1 (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-foxsports1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/golf-channel.png"  ,Golf Channel Thailand (TH)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTINF:-1   tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/mutv.png"  ,MUTV (UK)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+#EXTM3U
+#EXTINF:-1   tvg-id="dazn3spain.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",306-DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium447/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="dazn4spain.es" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",307-DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium448/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="diemasport.bg" tvg-logo="https://i.imgur.com/oXvXzv5.png",308-Diema Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium465/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="diemasport2.bg" tvg-logo="https://i.imgur.com/DJgF6pJ.png",309-Diema Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium466/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="diemasport3.bg" tvg-logo="https://i.imgur.com/aFzN7Yh.png",310-Diema Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium467/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="digisport1romania.ro" tvg-logo="https://i.imgur.com/5zMxDYq.png",311-Digi Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium400/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="digisport2romania.ru" tvg-logo="https://i.imgur.com/KWDUi3v.png",312-Digi Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium401/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="digisport3romania.ro" tvg-logo="https://i.imgur.com/T1ci5UK.png",313-Digi Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium402/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="digisport4romania.ro" tvg-logo="https://i.imgur.com/Knj9I6f.png",314-Digi Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium403/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="dubairacing1.ae" tvg-logo="https://i.imgur.com/0UyZUMt.png",315-Dubai Racing 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1   tvg-id="dubairacing2.ae" tvg-logo="https://i.imgur.com/0UyZUMt.png",316-Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1   tvg-id="dubairacing3.ae" tvg-logo="https://i.imgur.com/0UyZUMt.png",317-Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1   tvg-id="dubaisports1.ae" tvg-logo="https://i.imgur.com/xuFbLf7.png",318-Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1   tvg-id="dubaisports2.ae" tvg-logo="https://i.imgur.com/o8RMWHE.png",319-Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1   tvg-id="dubaisports3.ae" tvg-logo="https://i.imgur.com/XjOO8ri.png",320-Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1   tvg-id="elevensports1poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-1.png",321-Eleven Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium71/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="elevensports2poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png",322-Eleven Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium72/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="elevensports3poland.pl" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",323-Eleven Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium428/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="espn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png",323-ESPN 1 US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium44/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="espn2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png",324-ESPN 2 US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="espndeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png",325-ESPN Deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="eurosport1uk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/640px-Eurosport_1_Logo_2015.svg.png",326-EuroSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium524/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="eurosport2uk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/640px-Eurosport_2_Logo_2015.svg.png",327-EuroSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="foxsports1.us" tvg-logo="https://imgx.fubo.tv/station_logos/fs1_2021_m.png",328-FOX Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium39/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="foxsports2.us" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_2021_m.png",329-FOX Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/eplayerfs2/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="match.ru" tvg-logo="https://3.bp.blogspot.com/-Ywd23nsIxeU/Wwq8P5mSblI/AAAAAAAATMI/UH-GSli4hIAu_cIvDbiBH2fhdz6Q7mGVACLcBGAs/s1600/match_ru_tv.png",330-MATCH!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium11/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1   tvg-id="matchfutbol1.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Match%21_Futbol_1_Stacked.svg/revision/latest/scale-to-width-down/640?cb=20221006124442",331-MATCH! Futbol 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium136/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="matchfutbol2.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Match%21_Futbol_2_Stacked.svg/revision/latest/scale-to-width-down/640?cb=20221006124434",332-MATCH! Futbol 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium137/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="matchfutbol3.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Match%21_Futbol_3_Stacked.svg/revision/latest/scale-to-width-down/640?cb=20221006124425",333-MATCH! Futbol 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium138/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="mlbnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/640px-MLBNetworkLogo.svg.png",334-MLB Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium3
+#EXTINF:-1   tvg-logo="https://www.mmatv.co.uk/wp-content/uploads/2016/01/MMATV-logo-1.png",335–MMA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=byPFmwd4yw8HDyR1xiKT&custom_7=60ecb878ebef9d002c4d0a11&is_lat=099/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="movistarlaliga.es" tvg-logo="https://i.imgur.com/HPMLSGb.png",336-Movistar LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium538/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="movistarligadecampeones.es" tvg-logo="https://i.imgur.com/mBl0IxY.png",337-Movistar Liga de Campeones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium435/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="nbatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/768px-NBA_TV.svg.png",338-NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium404/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="nflnetwork.us" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/05/nfl-network-logo-1-e1663261658553-768x321.png",339-NFL Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium405/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="orangesport1.ro" tvg-logo="https://i.imgur.com/6bnikru.png",340-Orange Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium439/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="orangesport2.ro" tvg-logo="https://i.imgur.com/2FkgbCd.png",341-Orange Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium440/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="orangesport3.ro" tvg-logo="https://i.imgur.com/C8tCTh1.png",342-Orange Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdnhks.lolm/lb/premium441/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="orangesport4.ro" tvg-logo="https://i.imgur.com/PJxNAre.png",343-Orange Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium442/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="polsatsport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/640px-Polsat_Sport_2021_gradient.svg.png",344-Polsat Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium47/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="polsatsportextra.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/640px-Polsat_Sport_Extra_2021_gradient.svg.png",345-Polsat Sport Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium50/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="polsatsportnews.pl" tvg-logo="https://i.imgur.com/td0rW6W.png",346-Polsat Sport News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium129/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="polsatsportpremium1.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/640px-Polsat_Sport_Premium_1_2021_gradient.svg.png",347-Polsat Sport Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium68/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="championstvepl.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/640px-Premier_League_Logo.svg.png",348-Premier League TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6f0ec073a7aba8cac61cd44fd78bf3f:c1ae5fbd637e0f212bf36f7614b629c9
+#EXTINF:-1   tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",349-Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1   tvg-id="rmcsport1.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Logo_RMC_Sport_1_2018.svg/revision/latest/scale-to-width-down/300?cb=20191012125536",350-RMC Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium119/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="rmcsport2.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/300?cb=20191012132613",351-RMC Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium120/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1   tvg-id="skysportsaction.uk" tvg-logo="https://i.imgur.com/XlASTQb.png",352-Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://ku3.worldtvip.co/fhd_sky_sport_action/index.m3u8?token=69354dce895a1f79112a16f1cc5626a6
+https://webudit.cdndac.lol/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="skysportsarena.uk" tvg-logo="https://i.imgur.com/m01PzKx.png",353-Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="skysportscricket.uk" tvg-logo="https://i.imgur.com/EoYFmY3.png",354-Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="skysportsf1.uk" tvg-logo="https://i.imgur.com/PsdeNhE.png",355-Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="skysportsfootball.uk" tvg-logo="https://i.imgur.com/Q0P923u.png",356-Sky Sports Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="skysportsgolf.uk" tvg-logo="https://i.imgur.com/fFcM6UT.png",357-Sky Sports Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="skysportsmainevent.uk" tvg-logo="https://i.imgur.com/xtcDjVf.png",358-Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="skysportsmix.uk" tvg-logo="https://i.imgur.com/6ndlrZ1.png",359-Sky Sports Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium449/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1   tvg-id="skysportspremierleague.uk" tvg-logo="https://i.imgur.com/DSrBVhv.png",360-Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.cdndac.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="Eurosport 1 FHD "tvg-name="IT:Eurosport 1 FHD"tvg-logo="https://guidatv.sky.it/logo/3073eurosporthd_Light_Padding.png"  ,361-Eurosport 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56630&extension=m3u8
+#EXTINF:-1 tvg-id="Eurosport 2 FHD "tvg-name="IT:Eurosport 2 FHD"tvg-logo="https://guidatv.sky.it/logo/150eurosport2hd_Light_Padding.png"  ,362-Eurosport 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56632&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport 24 FHD "tvg-name="IT:Sky Sport 24 FHD"tvg-logo="https://guidatv.sky.it/logo/929skysport24_Light_Padding.png"  ,363-Sky Sport 24 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56592&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport 1 FHD "tvg-name="IT:Sky Sport 1 FHD"tvg-logo="https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png"  ,364-Sky Sport 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56598&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport Tennis FHD "tvg-name="IT:Sky Sport Tennis FHD"tvg-logo="https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png"  ,365-Sky Sport Tennis FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56607&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport F1 FHD "tvg-name="IT:Sky Sport F1 FHD"tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png"  ,366-Sky Sport F1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56604&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport Moto FHD "tvg-name="IT:Sky Sport Moto FHD"tvg-logo="https://guidatv.sky.it/logo/914skysportmotogp_Light_Padding.png"  ,367-Sky Sport Moto FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56601&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport Arena FHD "tvg-name="IT:Sky Sport Arena FHD"tvg-logo="https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png"  ,368-Sky Sport Arena FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport Nba FHD "tvg-name="IT:Sky Sport Nba FHD"tvg-logo="https://guidatv.sky.it/logo/611skysportnba_Light_Padding.png"  ,369-Sky Sport Nba FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56610&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport Golf FHD "tvg-name="IT:Sky Sport Golf FHD"tvg-logo="https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png"  ,370-Sky Sport Golf FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football FHD "tvg-name="IT:Sky Sport Football FHD"tvg-logo="https://guidatv.sky.it/logo/248skysportfootballhd_Light_Padding.png"  ,371-Sky Sport Football FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56615&extension=m3u8
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD "tvg-name="IT:Sky Sport Serie A FHD"tvg-logo="http://google-images-dsa2ds121cvd8as4c12xz15s4.ddns.net/Loghi/SKY_SPORT/Sky_Serie_A_HD.png"  ,372-Sky Sport Serie A FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56621&extension=m3u8
