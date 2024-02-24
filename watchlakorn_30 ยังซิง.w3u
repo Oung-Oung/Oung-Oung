@@ -1,9 +1,23 @@
 {
     "name": "30 ยังซิง",
-    "author": "เจียว เจียว อัพวันที่ 11 กุมภาพันธ์ 2567",
+    "author": "เจียว เจียว อัพวันที่ 24 กุมภาพันธ์ 2567",
     "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
     "image": "https://cdn.watchlakorn.in/storage/images/av-1702136251.jpg",
     "stations": [
+        {
+            "name": "30 ยังซิง  ตอนที่ 11",
+            "info": "วันที่ 24 กุมภาพันธ์ 2567",
+            "image": "https://cdn.watchlakorn.in/storage/images/av-1702136251.jpg",
+            "url": "https://www.watchlakorn.in/egde/c267d241b3fc03eeeb744c4794faaea3/NDg3OA==/MTE=/ZGF0YTE1LzI0LTAyLTIwMjQvQ2hlcnJ5TWFnaWMtRGlzYzExLTI0LUZlYi0yMDI0Lm1wNA==/index-v1-a1.m3u8",
+            "referer": "https://www.watchlakorn.in/"
+        },
+        {
+            "name": "30 ยังซิง  ตอนที่ 10",
+            "info": "วันที่ 17 กุมภาพันธ์ 2567",
+            "image": "https://cdn.watchlakorn.in/storage/images/av-1702136251.jpg",
+            "url": "https://www.watchlakorn.in/egde/64cc8455037d16bf78700f090954dcdc/NDg3OA==/MTA=/ZGF0YTE1LzE3LTAyLTIwMjQvQ2hlcnJ5TWFnaWMtRGlzYzEwLTE3LUZlYi0yMDI0Lm1wNA==/index-v1-a1.m3u8",
+            "referer": "https://www.watchlakorn.in/"
+        },
         {
             "name": "30 ยังซิง  ตอนที่ 9",
             "info": "วันที่ 10 กุมภาพันธ์ 2567",
