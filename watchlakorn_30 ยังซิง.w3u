@@ -1,9 +1,16 @@
 {
     "name": "30 ยังซิง",
-    "author": "เจียว เจียว อัพวันที่ 24 กุมภาพันธ์ 2567",
+    "author": "เจียว เจียว อัพวันที่ 02 มีนาคม 2567",
     "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
     "image": "https://cdn.watchlakorn.in/storage/images/av-1702136251.jpg",
     "stations": [
+        {
+            "name": "30 ยังซิงตอนจบ  ตอนที่ 12",
+            "info": "วันที่ 2 มีนาคม 2567",
+            "image": "https://cdn.watchlakorn.in/storage/images/av-1702136251.jpg",
+            "url": "https://www.watchlakorn.in/egde/dcc018b57086b7647bb9ae86fac4b8ce/NDg3OA==/MTI=/ZGF0YTE1LzAyLTAzLTIwMjQvQ2hlcnJ5TWFnaWMtRGlzYzEyLTItTWFyLTIwMjQubXA0/index-v1-a1.m3u8",
+            "referer": "https://www.watchlakorn.in/"
+        },
         {
             "name": "30 ยังซิง  ตอนที่ 11",
             "info": "วันที่ 24 กุมภาพันธ์ 2567",
