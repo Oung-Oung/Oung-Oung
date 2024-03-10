@@ -1,9 +1,23 @@
 {
     "name": "นางทาสหัวทอง",
-    "author": "เจียว เจียว อัพวันที่ 04 มีนาคม 2567",
+    "author": "เจียว เจียว อัพวันที่ 10 มีนาคม 2567",
     "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
     "image": "https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
     "stations": [
+        {
+            "name": "นางทาสหัวทอง  ตอนที่ 20",
+            "info": "วันที่ 10 มีนาคม 2567",
+            "image": "https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
+            "url": "https://www.watchlakorn.in/egde/ef57ff98575a7f1e9610c88e1e68b853/NDg4NQ==/MjA=/ZGF0YTE1LzEwLTAzLTIwMjQvTmFuZ3RoYXRIdWF0aG9uZy1EaXNjMjAtMTAtTWFyLTIwMjQubXA0/index-v1-a1.m3u8",
+            "referer": "https://www.watchlakorn.in/"
+        },
+        {
+            "name": "นางทาสหัวทอง  ตอนที่ 19",
+            "info": "วันที่ 9 มีนาคม 2567",
+            "image": "https://cdn.watchlakorn.in/storage/images/av-1704558397.jpg",
+            "url": "https://www.watchlakorn.in/egde/2173600fd2560cc318ddd059298b37a9/NDg4NQ==/MTk=/ZGF0YTE1LzA5LTAzLTIwMjQvTmFuZ3RoYXRIdWF0aG9uZy1EaXNjMTktOS1NYXItMjAyNC5tcDQ=/index-v1-a1.m3u8",
+            "referer": "https://www.watchlakorn.in/"
+        },
         {
             "name": "นางทาสหัวทอง  ตอนที่ 18",
             "info": "วันที่ 3 มีนาคม 2567",
